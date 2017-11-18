@@ -15,7 +15,5 @@
 
 /node_modules
 /yarn-error.log
-/config/mongoid.yml
-/config/sicrets.yml
 
 .byebug_history
