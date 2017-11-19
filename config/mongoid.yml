@@ -158,6 +158,7 @@ test:
 production:
   clients:
     default:
+      uri: mongodb://heroku_55c02h83:r5t9gu28ndvbdir44us17t4kbc@ds111476.mlab.com:11476/heroku_55c02h83
       database: academy_production
       hosts:
         - localhost:27017
